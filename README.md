@@ -5,7 +5,7 @@
 🌱 I'm currently learning and looking for help with<br/>
 
 
-## 👋 Let's conntect on:
+# 👋 Let's conntect on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn Username) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/StackOverflow User ID) 
 
 # 💻 Tech Stack:
